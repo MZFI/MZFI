@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/51/db/15/51db15eba4d4f1d87fccb7317a6ecee5.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://analyticsindiamag.com/wp-content/uploads/2019/07/smily.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MZH</h1>
 <h3 align="center">I'm a passionate Software Developer from Finland.</h3>
