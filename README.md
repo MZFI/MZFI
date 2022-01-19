@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oulu.fi%2Funiversity%2Fnode%2F47463&psig=AOvVaw1oRmzm20D6z4CZkM5fKp9d&ust=1642713607183000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCJn5rfvvUCFQAAAAAdAAAAABAI" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="Logo.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md. Ziaul Hoque</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Finland.</h3>
