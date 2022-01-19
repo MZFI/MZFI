@@ -80,4 +80,4 @@
 <a href="https://github.com/MZH/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MZH">
 </a>
-<a href="https://github.com/MZH?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MZH?tab=followers"><img src="https://img.shields.io/github/followers/MZH?label=Followers&style=social" alt="GitHub Badge"></a>
