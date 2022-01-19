@@ -1,4 +1,4 @@
-<a href="#"><img width="Auto%" height="60%" src="https://github.com/MZFI/MZFI/blob/main/Logo.gif" height="175px"/></a>
+<a href="#"><img width="Auto%" height="100%" src="https://github.com/MZFI/MZFI/blob/main/Logo.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MZH</h1>
 <h3 align="center">I'm a passionate Software Developer from Finland.</h3>
