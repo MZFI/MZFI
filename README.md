@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/MZFI/Logo.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://open.ieee.org/wp-content/uploads/partner-logo-university-oulu.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MZH</h1>
 <h3 align="center">I'm a passionate Software Developer from Finland.</h3>
